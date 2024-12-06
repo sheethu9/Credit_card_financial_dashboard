@@ -1,4 +1,4 @@
-# Credit_card_financial_dashboard
+# Credit_card_financial_Analysis
 Power BI Dashboard
 
 Project Objective : To develop comprehensive credit card weekly dashboard is to provide an intuitive, real-time visualization of credit card usage and performance metrics. The dashboard will empower stakeholders with actionable insights, enhance financial oversight, and facilitate data-driven decision-making.
